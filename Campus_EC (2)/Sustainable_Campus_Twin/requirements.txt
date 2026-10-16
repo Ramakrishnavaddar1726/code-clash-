@@ -1,0 +1,10 @@
+streamlit>=1.50
+plotly
+pandas
+numpy
+scikit-learn
+reportlab
+pillow
+anthropic
+# Optional, only for the Vision tab (large download):
+# ultralytics
